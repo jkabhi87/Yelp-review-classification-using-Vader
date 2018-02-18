@@ -1,0 +1,35 @@
+"Server took 15 minutes to even seat me, then 10 more to even take my order. Found out they didn't even have what I wanted, 
+a common accurance lately. Once I had got my drink(COLA with a shot of cherry), it was flat and tasted a little like cough 
+syrup. Their first attempt at my meal, grilled cheese steak burger melt(in essence a steak burger on a grilled cheese), 
+I was served just a plain grilled cheese. Once they had gotten me another sandwich, it seemed right except for the awkward 
+stack of pickles in the middle, not spread out. It may seem a little nitpickey at this point, but this is by far the worst 
+experience I've had at this restaurant, but not the first. I don't think I'll be returning to suffer through that again."
+
+compound: -0.9021, neg: 0.086, neu: 0.902, pos: 0.012,
+actual star rating : 1. Sentiment: "negative"
+
+
+"Piano Man to the tune of Gangster's Paradise...what more do I have to say? Get there early if you want a seat, $7 cover 
+and really fun crowd. We had sucha great time and I can't wait to go back."
+
+compound: 0.8399, neg: 0.0, neu: 0.791, pos: 0.209, 
+actual star rating : 5. Sentiment: "very positive"
+
+
+Dueling piano bars in Pittsburgh started at Station Square, and they died out. Then when the chain restaurant magnet \
+"waterfront\" opened in 2000 the parent company of The Rock Bottom Breweries decided to open Sing Sing in back of 
+The Brewery.\n\nWhen it first opened it was pretty cool. The very first house band could put on a show that led to 
+standing ovations. I know, I was there. From Stairway to Heaven to Free Bird, Stayin' Alive to She's My Cherry Pie, 
+Elton John to the Boss, they were amazing at sounding like the bands they were covering. Equally incredible were the 
+obscure songs that audience members would shout out, songs only you though you knew, and they would effortlessly sing 
+a good portion of the song, sounding like the band who's song they sung.\n\nBut today, Sing Sing seems like it's stuck 
+in the early part of the 21st century. The whole dueling piano, shout out a song to stump the band, Sing us a song 
+you're the piano man has run it's course. I don't hate Sing Sing, but I could never come here more than once a year. 
+It's a been there, done that kind of place."
+
+compound: 0.9127, neg: 0.019, neu: 0.876, pos: 0.106, 
+actual star rating : 3. Sentiment: "none"
+
+
+When run on the entire dataset, accuracy reported was 0.851870456829
+When the reviews with rating between 2.5 and 3.5 were excluded, the accuracy went up to 0.936215886339
